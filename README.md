@@ -1,6 +1,6 @@
 ### Hi there, my name is Luís!!!
 
-- 🌱 I’m currently learning Python!!
+- 🌱 I’m currently learning Python and Javascript(NodeJs)!!
 
 <div align="left">
   <a href="https://github.com/miguelmarqs">
