@@ -1,6 +1,15 @@
-### Hi there, my name is Luís!!!
+### Cześć, my name is Luís!!!
 
-- 🌱 I’m currently learning Python and Javascript(NodeJs)!!
+🌱I am passionate about technology, especially artificial intelligence, and I am always looking for opportunities to improve myself as a professional in this field.
+
+At the moment, I’m directing my efforts to improve my skills in Back-End (Python and Node.Js) and with Database (SQL, MongoDB). Furthermore, I am very excited to explore the fascinating field of Machine Learning. I am dedicated to expanding my knowledge in these areas to apply them in challenging and innovative projects.
+
+My professional goal is to find an opportunity in the technology field that allows me to grow and apply my passion for artificial intelligence, contributing to innovative and challenging projects.
+
+Would you like to talk to me?
+
+📱 +55 11 94820-3026
+✉ miguelmarqs1233@gmail.com!!
 
 <div align="left">
   <a href="https://github.com/miguelmarqs">
