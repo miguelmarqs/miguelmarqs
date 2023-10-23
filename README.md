@@ -58,6 +58,3 @@ Would you like to talk to me?
 <a href = "mailto:contato.miguelmarqs1233@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/miguelmarqs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-  <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914003234673274910/917981994317668382/Grenn_Tchaco.gif">
-
-</div>
