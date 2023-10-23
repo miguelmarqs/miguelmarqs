@@ -10,9 +10,9 @@ Would you like to talk to me?
 
 <img align="right" alt="Luis-pic" height="150" src="https://cdn.discordapp.com/attachments/914003234673274910/917981994317668382/Grenn_Tchaco.gif">
 
-📱 +55 11 94820-3026
+📱 +55 11 94355-5108 / +55 11 94820-3026
 
-✉ miguelmarqs1233@gmail.com!!
+✉ miguelmarqs1233@gmail.com
 
 ## My Skills
 
