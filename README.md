@@ -1,16 +1,16 @@
 ### Cześć, my name is Luís!!!
 
 <a href="https://github.com/miguelmarqs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=2F81F7&center=false&vCenter=true&width=550&height=32&lines=Autonomous+AI+Agents+%26+MCP;Quantitative+Trading+Systems;High-Throughput+Database+Pipelines;Reverse+Engineering+%26+Security" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=2F81F7&center=false&vCenter=true&width=550&height=32&lines=Database+Analyst;High-Speed+Database+Migrations;Multi-Engine+SQL+Pipelines;Dockerized+Database+Staging" alt="Dynamic Typing" />
 </a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
 
-🌱 Software Engineer specializing in **Autonomous AI Agents**, **Quantitative Systems**, and **High-Volume Data Engineering**.
+🌱 **Database Analyst** specializing in high-volume database migrations, multi-engine SQL environments, and bulk data processing.
 
-At the moment, I’m directing my efforts towards engineering multi-agent architectures (ReAct loops & Model Context Protocol - MCP), 24/7 algorithmic trading systems, and high-performance database migration pipelines across heterogeneous database engines.
+At the moment, I’m directing my efforts towards architecting high-performance migration pipelines, schema mapping, and ETL workflows across heterogeneous database engines (SQL Server, PostgreSQL, MySQL, Firebird).
 
-Furthermore, I explore low-level systems, reverse engineering, and machine learning models running locally via Ollama. I am dedicated to architecting reliable, high-throughput software and autonomous workflows.
+Furthermore, I leverage Docker for isolated database environments, Python for custom data pipeline automation, and local AI workflows. I am dedicated to ensuring data integrity, optimized query performance, and ultra-fast bulk operations.
 
 Would you like to talk to me?
 
@@ -33,16 +33,9 @@ Would you like to talk to me?
 
 #### Main Stacks:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
-
-#### AI & Automation:
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)&nbsp;
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-412991?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
-![AI Agents](https://img.shields.io/badge/AI_Agents-092E20?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![Quant Trading](https://img.shields.io/badge/Quant_Trading-F0B90B?style=for-the-badge&logo=binance&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
 #### Databases:
 
@@ -50,6 +43,13 @@ Would you like to talk to me?
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Firebird](https://img.shields.io/badge/Firebird-FF5722?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+
+#### AI & Automation:
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)&nbsp;
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-412991?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![AI Agents](https://img.shields.io/badge/AI_Agents-092E20?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Quant Trading](https://img.shields.io/badge/Quant_Trading-F0B90B?style=for-the-badge&logo=binance&logoColor=black)&nbsp;
 
 #### Workstation & Environments:
 
