@@ -16,38 +16,9 @@ Would you like to talk to me?
 
 📱 +55 11 94355-5108
 
-✉ contato.miguelmarqs1233@gmail.com
+✉ miguelmarqs1233@gmail.com
 
 <br/>
-
-## Current Systems & Focus:
-
-```yaml
-# Active Systems & Core Focus Configuration
-identity:
-  operator: "Luís Miguel"
-  role: "Software Engineer"
-
-subsystems:
-  autonomous_ai:
-    architecture: "ReAct Loops / Model Context Protocol (MCP)"
-    local_inference: "Ollama (DeepSeek / GLM / Llama)"
-    status: [ONLINE / ACTIVE]
-
-  quant_trading:
-    markets: "Binance (Spot & Futures) / Web3 Predictive Systems"
-    execution: "Algorithmic Order Flow & Real-time Exposure Control"
-    status: [RUNNING 24/7]
-
-  data_engineering:
-    databases: ["SQL Server", "PostgreSQL", "MySQL", "Firebird"]
-    operations: "Docker Multi-Engine Migrations & Ultra-Fast Bulk Insert"
-    status: [OPERATIONAL]
-
-  reverse_engineering:
-    focus: "Binary Disassembly, Memory Tracing & Security Tooling"
-    status: [STANDBY]
-```
 
 ## My Skills
 
@@ -93,7 +64,7 @@ subsystems:
 
 <div> 
 <a href="https://www.linkedin.com/in/miguelmarqs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:contato.miguelmarqs1233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:miguelmarqs1233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5511943555108" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_lsmgl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>&nbsp;&nbsp;
